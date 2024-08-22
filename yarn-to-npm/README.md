@@ -1,8 +1,8 @@
 # Yarn to npm
 
-![npm](https://img.shields.io/npm/v/yarn-to-npm-cli)
-![license](https://img.shields.io/npm/l/yarn-to-npm-cli)
-![downloads](https://img.shields.io/npm/dw/yarn-to-npm-cli)
+![npm](https://img.shields.io/npm/v/yarn-to-npm)
+![license](https://img.shields.io/npm/l/yarn-to-npm)
+![downloads](https://img.shields.io/npm/dw/yarn-to-npm)
 
 A CLI tool that simplifies the migration of projects from Yarn to npm. This tool converts the `yarn.lock` file to `package-lock.json` and updates `package.json` scripts to use npm commands.
 
